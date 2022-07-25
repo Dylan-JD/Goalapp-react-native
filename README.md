@@ -1,4 +1,4 @@
-# RNCourse
+# Goalapp
 
 first use "npm install" to install the  node_modules
 secondly, use "npm start" ot start expo.
