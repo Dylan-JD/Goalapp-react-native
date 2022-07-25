@@ -1,8 +1,9 @@
 # Goalapp
 
-first use "npm install" to install the  node_modules
-secondly, use "npm start" ot start expo.
-then use a to run the andriod
+To start:  
+1.first use "npm install" to install the  node_modules  
+2.secondly, use "npm start" ot start expo.  
+3.then use a to run the andriod  
 
 the fuction of this app is add goal, and delete the record.
 
